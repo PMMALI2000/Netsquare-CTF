@@ -1,6 +1,6 @@
 # Netsquare CTF
 
-![Netsquare CTF](https://cdn-images-1.medium.com/v2/resize:fit:963/1*jPl6MQcMKz9arxNqwQBsEg.png)
+![Netsquare CTF](https://raw.githubusercontent.com/PMMALI2000/Netsquare-CTF/refs/heads/main/netsquare-ctf.png)
 
 Welcome to the Netsquare CTF repository! This challenge includes a mix of web and network-based tasks designed to test your cybersecurity skills. Created for educational purposes, it aims to provide hands-on experience in areas like Enumeration, encryption bypass, path traversal, file upload vulnerability, and privilege escalation.
 
