@@ -20,7 +20,7 @@ Welcome to the Netsquare CTF repository! This challenge includes a mix of web an
 3. **Start the VM**, and explore the CTF.
 
 ## Tools You Might Need
-- [Burp Suite]([https://portswigger.net/burp](https://portswigger.net/burp/communitydownload)) for intercepting and analyzing requests.
+- [Burp Suite](https://portswigger.net/burp/communitydownload)) for intercepting and analyzing requests.
 - [Browser Bruter](https://github.com/netsquare/BrowserBruter) for encrypted brute-forcing.
 
 ---
