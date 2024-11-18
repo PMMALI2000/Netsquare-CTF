@@ -1,6 +1,3 @@
-# Netsquare-CTF
-Dive into Netsquare's CTF environment—break through the web defenses, gain a foothold, and escalate privileges to conquer the system.
-
 # Netsquare CTF
 
 Welcome to the Netsquare CTF repository! This challenge includes a mix of web and network-based tasks designed to test your cybersecurity skills. Created for educational purposes, it aims to provide hands-on experience in areas like Enumeration, encryption bypass, path traversal, file upload vulnerability, and privilege escalation.
