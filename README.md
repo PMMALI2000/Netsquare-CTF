@@ -10,7 +10,7 @@ Welcome to the Netsquare CTF repository! This challenge includes a mix of web an
 - **Privilege Escalation**: Test your skills with SUID binaries and misconfigured permissions.
 
 ## Resources
-- **Download the OVA File**: [Link to OVA](https://your-file-sharing-link.com)
+- **Download the OVA File**: [Link to OVA](https://drive.google.com/file/d/1OwNWjMbl-cT2l6G3rkRK6FnJ5CDkVOiA/view?usp=sharing)
 - **Detailed Write-Up**: [Read on Medium](https://medium.com/your-writeup-link)
 
 ## How to Use
