@@ -11,7 +11,7 @@ Welcome to the Netsquare CTF repository! This challenge includes a mix of web an
 
 ## Resources
 - **Download the OVA File**: [Link to OVA](https://drive.google.com/file/d/1OwNWjMbl-cT2l6G3rkRK6FnJ5CDkVOiA/view?usp=sharing)
-- **Detailed Write-Up**: [Read on Medium](https://medium.com/your-writeup-link)
+- **Detailed Write-Up**: [Read on Medium](https://infosecwriteups.com/a-step-by-step-walkthrough-of-the-netsquare-ctf-challenge-58212b63d44b)
 
 ## How to Use
 1. **Download** the OVA file from the link above.
